@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
     <title>peruano</title>
     <h1>es un peligro</h1>
     <h5>alo</h5>
@@ -12,5 +9,4 @@
 
 
 </div>
-</body>
-</html>
+
